@@ -19,11 +19,3 @@ assignees: ""
 Manual Review
 
 ## Recommendation
-
-## Team
-
-[Comment here]
-
-## Sherlock
-
-[Comment here]
