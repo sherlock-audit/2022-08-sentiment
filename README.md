@@ -14,11 +14,14 @@
 - [Controller @ a2ddbc](https://github.com/sentimentxyz/controller/tree/a2ddbcc00f361f733352d9c51457b4ebb999c8ae)
 - [Oracle @ 59b26a](https://github.com/sentimentxyz/oracle/tree/59b26a3d8c295208437aad36c470386c9729a4bc)
 
+# Audit scope
+
+All contracts in the folders (that represent the repos above) except contracts in any `test` folder.
+
 
 # About Sentiment
 
 > source: [Sentiment Docs](https://docs.sentiment.xyz/core-concepts/overview)
-
 
 Sentiment is a permissionless undercollateralised onchain credit protocol that allows users to lend and borrow assets with increased capital efficiency and deploy them across DeFi. The two key user groups interacting with the protocol are are Lenders and Borrowers. We outline the value proposition for both of these groups below.
 
