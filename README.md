@@ -4,8 +4,8 @@
 - Join [Sherlock Discord](discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
-- Starts August 28, 2022 13:00 UTC
-- Ends September 11, 2022 13:00 UTC
+- Starts August 29, 2022 13:00 UTC
+- Ends September 12, 2022 13:00 UTC
 
 # Resources
 
