@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+pragma solidity ^0.8.15;
 
-import "./utils/Base.t.sol";
-import "src/balancer/IVault.sol";
-import "src/balancer/BalancerController.sol";
+import {TestBase} from "./utils/Base.t.sol";
+import {IVault, IAsset} from "../balancer/IVault.sol";
+import {BalancerController} from "../balancer/BalancerController.sol";
 
 contract TestBalancer is TestBase {
 

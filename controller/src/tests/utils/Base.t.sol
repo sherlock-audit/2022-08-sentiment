@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+pragma solidity ^0.8.15;
 
-import "forge-std/Test.sol";
-import "src/core/ControllerFacade.sol";
+import {Test} from "forge-std/Test.sol";
+import {ControllerFacade} from "../../core/ControllerFacade.sol";
 
 contract TestBase is Test {
 
