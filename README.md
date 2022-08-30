@@ -5,7 +5,7 @@
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
 - Starts August 29, 2022 15:00 UTC
-- Ends September 12, 2022 15:00 UTC
+- Ends September 19, 2022 15:00 UTC
 
 # Resources
 
