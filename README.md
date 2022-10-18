@@ -10,14 +10,14 @@
 # Resources
 
 - [Docs](https://docs.sentiment.xyz/)
+
+# Audit scope
+
 - [Protocol @ 4e4587](https://github.com/sentimentxyz/protocol/tree/4e45871e4540df0f189f6c89deb8d34f24930120)
 - [Controller @ a2ddbc](https://github.com/sentimentxyz/controller/tree/a2ddbcc00f361f733352d9c51457b4ebb999c8ae)
 - [Oracle @ 59b26a](https://github.com/sentimentxyz/oracle/tree/59b26a3d8c295208437aad36c470386c9729a4bc)
 
-# Audit scope
-
 All contracts in the folders (that represent the repos above) except contracts in any `test` folder.
-
 
 # About Sentiment
 
